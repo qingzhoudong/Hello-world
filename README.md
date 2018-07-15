@@ -1,2 +1,5 @@
 # Hello-world
-An hello-world program
+Hi man!
+
+I'm qingzhoudong.
+Nice to meet you, guys.
