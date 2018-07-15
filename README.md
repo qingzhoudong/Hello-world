@@ -1,2 +1,2 @@
 # Hello-world
-An hello-world program
+A hello-world program
